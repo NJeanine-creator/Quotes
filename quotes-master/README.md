@@ -1,6 +1,6 @@
 # QUOTE APP
 
-### Author: Arnold Oduma
+### Author: Jeanine NISHIMWE
 
 This is a program to enable a user to view quotes vote for their favorite quotes and also create new quotes. The highest voted quote will be highlighted
 
@@ -8,7 +8,7 @@ This is a program to enable a user to view quotes vote for their favorite quotes
 
 Install triangle tracker on your local machine bt cloning this repository:
 
-[Github repo](https://github.com/ArnoldOduma/quotes.git) - https://github.com/ArnoldOduma/quotes.git
+[Github repo](https://github.com/NJeanine-creator/Quotes.git) - https://github.com/NJeanine-creator/Quotes.git
 
 ### Prerequisites
 
@@ -23,7 +23,7 @@ ng -version
 
 ## Installing
 
-Clone the repository to your local machine from the **[online repository](https://github.com/ArnoldOduma/quotes.git)**
+Clone the repository to your local machine from the **[online repository](https://github.com/NJeanine-creator/Quotes.git)**
 
 If you already have git and angular installed in your machine continue to the next step,
 
@@ -79,7 +79,7 @@ You are set to go.
 
 ## Deployment
 
-Click [here](https://arnoldoduma.github.io/quotes/) to go to the live site.<br>
+Click [here](https://github.com/NJeanine-creator/Quotes.git) to go to the live site.<br>
 
 ## Built With
 
@@ -99,12 +99,12 @@ We use currently have only the first version of this application.
 
 ## Authors
 
-- **Arnold Oduma** - _Initial work_ - [Portfolio](https://github.com/ArnoldOduma/portfolio)
+- **Jeanine NISHIMWE** - _Initial work_ - [Portfolio](https://njeanine-creator.github.io/My-first-Project/)
 
 ## Contacts
 
-[Email](https://mail.google.com) - techspaceke@gmail.com <br>
-Phone - +254-716-832-927
+[Email](https://mail.google.com) - jnishimwe321@daviscollege.com <br>
+Phone - +250780629636
 
 ## License
 
@@ -112,5 +112,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Arnold Oduma
-- etc
+- Jeanine NISHIMWE
+- Moringa Sshool
